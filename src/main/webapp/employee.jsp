@@ -37,8 +37,7 @@
         <input  type="text" name="department" class="form-control" id="department">
     </div>
     <div style="margin-top: 10px; text-align: center"  >
-        <button  type="submit" class="btn btn-primary mb-3">Save</button>
-    </div>
+        <button type="submit" class="btn btn-primary mb-3" style="color: white;background-color: pink;border: none;">Save</button>      </div>
 </form>
 </body>
 </html>
